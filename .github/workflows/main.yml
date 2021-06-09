@@ -1,4 +1,4 @@
-name: CI
+name: Irwin Tech RDP
 
 on: workflow_dispatch
 
