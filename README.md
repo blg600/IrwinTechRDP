@@ -11,3 +11,4 @@ Follow these instructions
 - Go to Action (if there is a warning click I understand)Go to Irwin Tech RDP > run workflow
 - Refresh website - go to Irwin Tech RDP > build
 - Click the down arrow "RDP INFO LOGIN" To get IP, User, Password.
+- After it is done wait about 1 minute and then connect to the RDP
